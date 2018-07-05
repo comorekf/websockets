@@ -1,3 +1,3 @@
 # websockets
 # demonstration code for dzone article
-# http://
+# https://dzone.com/articles/websockets-with-wicket-tutorial
